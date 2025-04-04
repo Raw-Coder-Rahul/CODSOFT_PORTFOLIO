@@ -1,5 +1,5 @@
 document.getElementById("resume-button").addEventListener("click",function(){
-    window.location.href = "images/mine_cv.pdf";
+    window.location.href = "images/rahul_cv.pdf";
 });
 const projects=[
     {name:"E-learning Platform",link: "https://raw-coder-rahul.github.io/e-Raw-learn-2.0-/", description:"A platform for online learning using HTML, CSS, and JS." },
